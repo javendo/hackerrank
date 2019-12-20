@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mLoading settings for project global-plugins from plugins.sbt,metals.sbt ...[0m
+[0m[[0m[0minfo[0m] [0m[0mLoading global plugins from /home/abadin/.sbt/1.0/plugins[0m
+[0m[[0m[0minfo[0m] [0m[0mLoading project definition from /data/projects/hackerrank/project[0m
+[0m[[0m[0minfo[0m] [0m[0mLoading settings for project hackerrank from build.sbt ...[0m
+[0m[[0m[0minfo[0m] [0m[0mSet current project to hackerrank (in build file:/data/projects/hackerrank/)[0m
+[0m[[0m[33mwarn[0m] [0m[0mCompile / run / javaOptions will be ignored, Compile / run / fork is set to false[0m
+[0m[[0m[33mwarn[0m] [0m[0mMultiple main classes detected.  Run 'show discoveredMainClasses' to see the list[0m
+
+Multiple main classes detected, select one to run:
+
+ [1] castleonthegrid.Solution
+ [2] countingontree.Solution
+ [3] cubesummation.Solution
+ [4] kindergartenadventures.Solution
+ [5] sockmerchant.Solution
+
+Enter number: 11
+
+Number out of range: was 11, expected number between 1 and 5
+[0m[[0m[31merror[0m] [0m[0mjava.lang.RuntimeException: No main class detected.[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.package$.error(package.scala:26)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mbgRun[0m) No main class detected.[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 31 s, completed Dec 2, 2019, 2:58:09 PM[0m

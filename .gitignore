@@ -1,4 +1,6 @@
-**/target
-**/.bloop
-**/.metals
+scala/**/target
+scala/**/.bloop
+scala/**/.metals
+haskell/**/dist-newstyle
+haskell/**/.ghc.environment*
 *~
