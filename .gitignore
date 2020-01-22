@@ -1,4 +1,5 @@
 \#*
+.metals
 scala/**/target
 scala/**/.bloop
 scala/**/.metals
