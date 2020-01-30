@@ -1,6 +1,9 @@
 \#*
 .metals
 java/**/target
+java/**/.settings
+java/**/.project
+java/**/.classpath
 scala/**/target
 scala/**/.bloop
 scala/**/.metals
