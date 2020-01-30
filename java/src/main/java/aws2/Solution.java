@@ -58,6 +58,7 @@ class Solution {
     servers.add(Arrays.asList(new Integer[] {0, 1, 0, 1, 0}));
     servers.add(Arrays.asList(new Integer[] {0, 0, 0, 0, 1}));
     servers.add(Arrays.asList(new Integer[] {0, 1, 0, 0, 0}));
+
     int d = s.minimumDays(4, 5, servers);
     System.out.println(d);
   }
