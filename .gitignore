@@ -1,4 +1,5 @@
-\#*
+*#
+*~
 .metals
 java/**/target
 java/**/.settings
@@ -10,4 +11,3 @@ scala/**/.metals
 haskell/**/dist
 haskell/**/dist-newstyle
 haskell/**/.ghc.environment*
-*~
