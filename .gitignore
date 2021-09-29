@@ -11,3 +11,4 @@ scala/**/.metals
 haskell/**/dist
 haskell/**/dist-newstyle
 haskell/**/.ghc.environment*
+python/**/.ipynb_checkpoints
