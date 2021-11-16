@@ -24,7 +24,7 @@ import System.IO.Unsafe
 --
 
 matchingStrings strings queries = do
-    return 0
+    return [] :: [[Int]]
 
 lstrip = Data.Text.unpack . Data.Text.stripStart . Data.Text.pack
 rstrip = Data.Text.unpack . Data.Text.stripEnd . Data.Text.pack
