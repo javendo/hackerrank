@@ -21,7 +21,7 @@ class Node {
   }
 }
 
-class Solution {
+public class Solution {
 
   public static StringBuffer levelOrder(Queue<Node> q) {
     StringBuffer sb = new StringBuffer();

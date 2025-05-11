@@ -15,7 +15,7 @@ class Node {
   }
 }
 
-class Solution {
+public class Solution {
   private static int height(Node n, int h) {
     return Math.max(Optional.ofNullable(n.left).map(e -> height(e, h + 1)).orElse(h),
                     Optional.ofNullable(n.right).map(e -> height(e, h + 1)).orElse(h));

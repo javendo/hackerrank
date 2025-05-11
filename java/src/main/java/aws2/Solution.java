@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 // CLASS BEGINS, THIS CLASS IS REQUIRED
-class Solution {
+public class Solution {
   // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
   int minimumDays(int rows, int columns, int[][] grid, int numOfOnes, int acc) {
     int allUpdated = rows * columns;

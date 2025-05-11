@@ -15,7 +15,7 @@ import java.util.HashSet;
 import java.util.stream.Collectors;
 
 // CLASS BEGINS, THIS CLASS IS REQUIRED
-class Solution {
+public class Solution {
   // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
 
   private static class Feature implements Comparable<Feature> {
