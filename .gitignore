@@ -1,6 +1,7 @@
 *#
 *~
 .metals
+java/target_classes
 java/**/target
 java/**/.settings
 java/**/.project
