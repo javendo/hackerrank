@@ -25,3 +25,8 @@ print(s.maxProduct([2, 3, -2, 4]) == 6)
 print(s.maxProduct([-2, 0, -1]) == 0)
 print(s.maxProduct([0, 2]) == 2)
 print(s.maxProduct([2,-5,-2,-4,3]) == 24)
+
+
+
+
+
